@@ -6,7 +6,7 @@ import { FaLinkedinIn } from 'react-icons/fa';
 import { IoLogoInstagram } from 'react-icons/io';
 import { CiUser } from 'react-icons/ci';
 import { CiLight } from 'react-icons/ci';
-import { Typography } from '@material-tailwind/react';
+import { Typography } from 'flowbite-react';
 import { BsCalendarDate } from 'react-icons/bs';
 
 const Header: React.FC = () => {

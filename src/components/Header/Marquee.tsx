@@ -1,5 +1,5 @@
 'use client';
-import { Typography } from '@material-tailwind/react';
+import { Typography } from 'flowbite-react';
 import React from 'react';
 import { GoDotFill } from 'react-icons/go';
 

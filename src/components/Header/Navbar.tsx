@@ -12,7 +12,7 @@ import {
   Typography,
   List,
   ListItem
-} from '@material-tailwind/react';
+} from 'flowbite-react';
 import { menuItems } from '@/utils';
 import Marquee from './Marquee';
 

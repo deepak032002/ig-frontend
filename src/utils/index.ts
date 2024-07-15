@@ -16,7 +16,7 @@ export const menuItems = [
     description: 'item1'
   },
   {
-    title: '@material-tailwind/react',
+    title: 'flowbite-react',
     description: 'item2'
   },
   {

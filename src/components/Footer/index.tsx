@@ -1,7 +1,7 @@
 'use client';
 import React from 'react';
 import { Categories, PopularTags } from '@/utils';
-import { Typography } from '@material-tailwind/react';
+import { Typography } from 'flowbite-react';
 import { FaAngleRight, FaLinkedinIn } from 'react-icons/fa';
 import { TiSocialFacebook } from 'react-icons/ti';
 import { FaTwitter } from 'react-icons/fa';
